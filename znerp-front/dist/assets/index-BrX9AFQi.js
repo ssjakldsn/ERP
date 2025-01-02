@@ -1,1 +1,0 @@
-import{d as o,o as p,q as e}from"./index-CIfmhqRC.js";import{E as r}from"./el-image-DLpquQe6.js";const t=o({name:"UserCoupon",__name:"index",props:{property:{}},setup:a=>(n,m)=>{const s=r;return p(),e(s,{src:"https://shopro.sheepjs.com/admin/static/images/shop/decorate/couponCardStyle.png"})}});export{t as default};

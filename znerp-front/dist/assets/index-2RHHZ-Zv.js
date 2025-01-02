@@ -1,1 +1,0 @@
-import{d as s,ai as a,a5 as t,_ as e}from"./index-CIfmhqRC.js";const o=e(s({name:"DocAlert",__name:"index",props:{title:a.string,url:a.string},setup:r=>(i,n)=>t("",!0)}),[["__scopeId","data-v-a375e52b"]]);export{o as _};

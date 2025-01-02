@@ -1,1 +1,0 @@
-import{e8 as r}from"./index-CIfmhqRC.js";import{u as e,U as o}from"./useUpload-Dugldi2L.js";const i={Authorization:"Bearer "+r()},m="https://erpapi.vqmjc.cc/admin-api/mp/material/upload-permanent",p=a=>e(o.Image,2)(a),s=a=>e(o.Voice,2)(a),t=a=>e(o.Video,10)(a);export{i as H,m as U,s as a,p as b,t as c};

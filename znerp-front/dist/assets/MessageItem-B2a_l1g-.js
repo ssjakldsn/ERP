@@ -1,1 +1,0 @@
-import{U as e}from"./constants-A8BI3pz7.js";import{d as m,o as p,c as r,aT as t,W as o,a}from"./index-CIfmhqRC.js";const d=m({name:"MessageItem",__name:"MessageItem",props:{message:{}},setup:g=>(s,l)=>(p(),r("div",{class:o([s.message.senderType===a(e).MEMBER?"ml-10px":s.message.senderType===a(e).ADMIN?"mr-10px":""])},[t(s.$slots,"default")],2))});export{d as default};

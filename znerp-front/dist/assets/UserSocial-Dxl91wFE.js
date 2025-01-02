@@ -1,1 +1,0 @@
-import{_ as t}from"./UserSocial.vue_vue_type_script_setup_true_lang-BMP7oILK.js";import"./index-CIfmhqRC.js";import"./XTextButton-eNQK5rLc.js";import"./constants-A8BI3pz7.js";import"./profile-BKsNLFSW.js";export{t as default};
