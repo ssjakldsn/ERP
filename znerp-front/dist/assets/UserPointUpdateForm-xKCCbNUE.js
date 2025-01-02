@@ -1,0 +1,1 @@
+import{_ as o}from"./UserPointUpdateForm.vue_vue_type_script_setup_true_lang-BqHUBv7a.js";import"./index-CIfmhqRC.js";import"./Dialog.vue_vue_type_style_index_0_lang-CtaLqQeX.js";import"./index-B-I20sFy.js";export{o as default};

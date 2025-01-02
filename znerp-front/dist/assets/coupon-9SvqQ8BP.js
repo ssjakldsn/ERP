@@ -1,0 +1,1 @@
+import{bt as a}from"./index-CIfmhqRC.js";const s=async o=>a.delete({url:`/promotion/coupon/delete?id=${o}`}),n=async o=>a.get({url:"/promotion/coupon/page",params:o}),t=async o=>a.post({url:"/promotion/coupon/send",data:o});export{s as d,n as g,t as s};

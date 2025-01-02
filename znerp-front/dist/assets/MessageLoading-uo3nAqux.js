@@ -1,0 +1,1 @@
+import{_ as a,o,c as t,f as e}from"./index-CIfmhqRC.js";import{E as d}from"./el-skeleton-item-Dm6LwaUQ.js";const n={class:"message-loading"},r=a({},[["render",function(c,f){const s=d;return o(),t("div",n,[e(s,{animated:""})])}],["__scopeId","data-v-f6396fed"]]);export{r as default};

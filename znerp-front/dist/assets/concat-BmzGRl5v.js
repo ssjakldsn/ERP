@@ -1,0 +1,1 @@
+import{eD as n,eE as t,aM as u,eF as m}from"./index-CIfmhqRC.js";function g(){var r=arguments.length;if(!r)return[];for(var s=Array(r-1),a=arguments[0],e=r;e--;)s[e-1]=arguments[e];return n(u(a)?m(a):[a],t(s,1))}export{g as c};

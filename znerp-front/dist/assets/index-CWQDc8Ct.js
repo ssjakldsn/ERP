@@ -1,0 +1,1 @@
+import{d as s,o as t,q as o}from"./index-CIfmhqRC.js";import{E as a}from"./el-image-DLpquQe6.js";const r=s({name:"UserWallet",__name:"index",props:{property:{}},setup:p=>(m,n)=>{const e=a;return t(),o(e,{src:"https://shopro.sheepjs.com/admin/static/images/shop/decorate/walletCardStyle.png"})}});export{r as default};

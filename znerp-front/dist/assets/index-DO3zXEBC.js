@@ -1,0 +1,1 @@
+import{bt as t}from"./index-CIfmhqRC.js";const a=e=>t.get({url:"/mp/free-publish/page",params:e}),p=(e,s)=>t.delete({url:"/mp/free-publish/delete?accountId="+e+"&articleId="+s}),r=(e,s)=>t.post({url:"/mp/free-publish/submit?accountId="+e+"&mediaId="+s});export{p as d,a as g,r as s};

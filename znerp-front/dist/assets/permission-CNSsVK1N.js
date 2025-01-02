@@ -1,0 +1,1 @@
+import{h as i,ev as t,ew as a}from"./index-CIfmhqRC.js";const{t:c}=i();function m(e){if(e&&e instanceof Array&&e.length>0){const{wsCache:o}=t(),s=e,n="*:*:*";return!!o.get(a.USER).permissions.some(r=>n===r||s.includes(r))}return console.error(c("permission.hasPermission")),!1}export{m as c};
